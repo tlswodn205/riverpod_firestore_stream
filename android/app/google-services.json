@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199730167901",
+    "project_id": "riverpot-firestore-strea-66db9",
+    "storage_bucket": "riverpot-firestore-strea-66db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199730167901:android:3dda3fa69c7e634f218db4",
+        "android_client_info": {
+          "package_name": "site.mtcoding.riverpot_firestore_stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199730167901-a0jst7ujk8pu553tp1rgpihiphnlf570.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDL-iZNh99OgAe0vrhN9uDH3v52C3zfFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199730167901-a0jst7ujk8pu553tp1rgpihiphnlf570.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
